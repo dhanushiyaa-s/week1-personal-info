@@ -18,6 +18,32 @@ This is a beginner Python project that demonstrates the use of:
 - Displays formatted output using f-strings
 - Uses string methods for better formatting
 
+## Output
+========================================
+      PERSONAL INFORMATION MANAGER
+========================================
+
+Please tell me about yourself:
+------------------------------
+What's your favorite food? Pizza
+What's your favorite color? Blue
+
+========================================
+        YOUR INFORMATION
+========================================
+
+Name: Dhanushiya S
+Age: 20 years (240 months old)
+City: Bangalore
+Hobby: Reading books
+
+Favorite Food: Pizza
+Favorite Color: Blue
+
+========================================
+Thank you for using Personal Information Manager!
+========================================
+
 ## How to Run
 
 1. Clone the repository
